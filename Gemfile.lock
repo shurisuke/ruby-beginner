@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    awesome_print (1.9.2)
+    nio4r (2.7.4)
+    puma (6.6.0)
+      nio4r (~> 2.0)
+    rack (3.1.15)
+    rackup (2.2.1)
+      rack (>= 3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  awesome_print
+  puma (~> 6.6)
+  rackup (~> 2.2)
+
+BUNDLED WITH
+   2.6.7

@@ -46,4 +46,5 @@ p texts
 
 #問14
 names = ["aya", "achi", "Tama"].map { |name| name.downcase }
-p names.sort
+names.sort
+p names
